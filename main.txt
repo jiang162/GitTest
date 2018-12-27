@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+	int b;
 	int a;
+	cout<<a+b<<endl; //output
 	return 0;
 }
